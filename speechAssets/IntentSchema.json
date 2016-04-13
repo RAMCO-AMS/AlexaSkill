@@ -1,0 +1,25 @@
+{
+  "intents": [
+     {
+      "intent": "MeetingIntent"
+    },
+     {
+      "intent": "ClassesIntent"
+    },
+     {
+      "intent": "ContributionsIntent"
+    },
+     {
+      "intent": "NewMembersIntent"
+    },
+     {
+      "intent": "HotlineIntent"
+    },
+      {
+      "intent": "FinishIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}

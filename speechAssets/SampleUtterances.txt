@@ -1,0 +1,42 @@
+MeetingIntent Meeting Registrations
+MeetingIntent How many meeting registrations do I have
+MeetingIntent active meeting registrations
+MeetingIntent meetings
+MeetingIntent how about meeting registrations
+
+ClassesIntent Class Registrations
+ClassesIntent How many class registrations do I have
+ClassesIntent active class registrations
+ClassesIntent classes
+ClassesIntent how about class registrations
+ClassesIntent how about classes
+
+ContributionsIntent contributions
+ContributionsIntent How many contributions  do I have
+ContributionsIntent rpac contributions
+ContributionsIntent rpac
+ContributionsIntent how about rpac
+ContributionsIntent can you tell me about rpac
+
+NewMembersIntent new memberships
+NewMembersIntent How many new memberships do I have
+NewMembersIntent new members
+NewMembersIntent memberships
+NewMembersIntent how about new members
+NewMembersIntent any new memberships
+
+
+HotlineIntent Hotline Calls
+HotlineIntent How many legal hotline calls do I have
+HotlineIntent active meeting registrations
+HotlineIntent legal hotline
+HotlineIntent open cases
+HotlineIntent how is activity on the legal hotline
+
+
+
+FinishIntent thank you
+FinishIntent exit
+FinishIntent stop
+FinishIntent quit
+FinishIntent cancel
